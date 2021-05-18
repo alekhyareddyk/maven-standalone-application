@@ -19,7 +19,7 @@
 
 	<properties>
 		<sonar.host.url>http://65.0.177.109:9000/</sonar.host.url>
-		<sonar.login>alekhyareddy</sonar.login>
+		<sonar.login>admin</sonar.login>
 		<sonar.password>Kri$#n@2420</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
